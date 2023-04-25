@@ -1,8 +1,8 @@
 # STARTER-jpa02-vikram-elango
 
-Repo: https://ucsb-cs156-s23/STARTER-jpa02-vikram-elango
+Repo: https://github.com/ucsb-cs156-s23/jpa02-vikram-elango
 
-Deployed at: https://jpa02-vikram-elango.herokuapp.com
+Deployed at: https://jpa02h-vikram-elango.herokuapp.com
 
 
 # About this repo
